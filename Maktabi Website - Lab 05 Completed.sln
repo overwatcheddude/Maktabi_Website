@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Maktabi Website - Lab 05 Completed", ".", "{2497E2C0-986F-4881-AFCC-B597579DF6AF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63863"
+		Debug.AspNetCompiler.PhysicalPath = "..\Maktabi Website - Lab 05 Completed\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63863\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63863"
+		Release.AspNetCompiler.PhysicalPath = "..\Maktabi Website - Lab 05 Completed\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63863\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63863"
+		SlnRelativePath = "..\Maktabi Website - Lab 05 Completed\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2497E2C0-986F-4881-AFCC-B597579DF6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2497E2C0-986F-4881-AFCC-B597579DF6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19977DC1-E457-46F6-921C-110E78DC84D9}
+	EndGlobalSection
+EndGlobal

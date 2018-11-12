@@ -1,0 +1,74 @@
+﻿body {
+    font-family:Verdana;
+    font-size:0.85em; 
+    background-color:#07344B;
+    }
+
+.container{width:900px; 
+           border:1px solid black; 
+           box-shadow: 5px 5px 5px #676464;
+           margin:auto;
+           background-color:white}
+
+header{ height:130px;
+        background-image:url(images/banner.jpg);
+        background-repeat:no-repeat;
+       }
+
+nav{float:left; 
+    width:170px; 
+    padding-left:5px;
+   }
+
+section{float:right;
+        width:710px}
+
+footer{clear:both;
+       height:30px;
+       border-top:1px solid black;
+       text-align:center;
+       padding-top:5px;
+      font-style:italic;
+}
+
+nav a {display:block;
+   padding:5px;
+   margin:5px;
+   width:155px;
+   text-decoration:none;
+   background-color:#0271A9;
+   border:2px solid #07344B;
+   color:white;
+}
+nav a:hover{
+    background-color:#4aa2ce;
+}
+
+nav a.adminlink{
+    background-color:#e2c61d;
+    color:black;
+}
+
+nav a.adminlink:hover{
+    background-color:#efec35;
+}
+h1,h2{font-family:Georgia;}
+h1{font-size:1.8em;}
+h2{font-size:1.4em;}
+
+.empty { background-image: url(images/emptyStar.png); width: 25px; height: 25px; background-repeat:no-repeat; }
+.filled { background-image: url(images/filledStar.png); width: 25px; height: 25px; background-repeat:no-repeat; }
+
+.more {border-radius:15px; border: 2px solid darkgray; 
+        background-color:gray;display:block; 
+        width:200px;text-decoration:none;color:white;
+        text-align:center; }
+.more:hover {background-color:white;color:gray;}
+
+.title {font-size:1.2em; background-color:#e8eaea; font-weight:bold}
+.more {border-radius:15px; border:2px solid darkgray; 
+       background-color:gray;display:block;
+       width:200px; text-decoration:none;color:white;
+       text-align:center;
+}
+.more:hover {background-color:white;color:gray;}
